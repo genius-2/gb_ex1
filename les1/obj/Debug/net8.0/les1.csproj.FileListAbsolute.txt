@@ -1,0 +1,14 @@
+C:\Users\Хасаншины\gb\c_lessons\les1\bin\Debug\net8.0\les1.exe
+C:\Users\Хасаншины\gb\c_lessons\les1\bin\Debug\net8.0\les1.deps.json
+C:\Users\Хасаншины\gb\c_lessons\les1\bin\Debug\net8.0\les1.runtimeconfig.json
+C:\Users\Хасаншины\gb\c_lessons\les1\bin\Debug\net8.0\les1.dll
+C:\Users\Хасаншины\gb\c_lessons\les1\bin\Debug\net8.0\les1.pdb
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.AssemblyInfoInputs.cache
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.AssemblyInfo.cs
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.csproj.CoreCompileInputs.cache
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.dll
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\refint\les1.dll
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.pdb
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.genruntimeconfig.cache
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\ref\les1.dll
