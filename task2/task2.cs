@@ -5,8 +5,7 @@
     return akr(a - 1, akr(a, b - 1));
 }
 Console.WriteLine("Введите а: ");
-int a = Convert.ToInt32(Console.R
-eadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите b: ");
 int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Аккерман = {akr(a, b)}");
