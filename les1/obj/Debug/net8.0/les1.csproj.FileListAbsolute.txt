@@ -12,3 +12,4 @@ C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\refint\les1.dll
 C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.pdb
 C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.genruntimeconfig.cache
 C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\ref\les1.dll
+C:\Users\Хасаншины\gb\c_lessons\les1\obj\Debug\net8.0\les1.sourcelink.json
